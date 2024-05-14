@@ -25,3 +25,41 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# numeric0-components
+
+- Menu
+- Hero
+- Login
+- Features
+- CTA
+- Cards
+- Tables
+- Features sections
+- Pricing
+- Newsletter
+- Stats
+- Testimonials
+- Blog sections
+- Contact
+- Text/Headings
+- Logos sections
+- FAQ
+- Footer
+- Modal
+- Sidebar
+- Banners/Alerts
+- Breadcrumbs
+- Lists
+- Forms/Inputs
+- Layouts
+- Dropdowns
+- Paginacao
+- Tabs
+- Steps
+
+## Examples
+- https://tailwindui.com/components
+- https://tailblocks.cc/
+- https://ui.shadcn.com/docs/components/
